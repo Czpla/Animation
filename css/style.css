@@ -11,8 +11,6 @@ body {
     display: flex;
     height: 400px;
     width: 400px;
-    justify-content: center;
-    align-items: center;
     background-image: url('../imgs/heart.png');
     background-size: contain;
     background-repeat: no-repeat;

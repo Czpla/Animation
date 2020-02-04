@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    background-color: lightgreen;
+    height: 100vh;
+    margin: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.animate {
+    display: flex;
+    height: 400px;
+    width: 400px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../imgs/heart.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    animation-name: heartBeat;
+    animation-duration: 4s;
+}
